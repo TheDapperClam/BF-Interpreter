@@ -1,0 +1,13 @@
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\bin\Debug\BF Interpreter.exe.config
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\bin\Debug\BF Interpreter.exe
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\bin\Debug\BF Interpreter.pdb
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Debug\BF Interpreter.csprojAssemblyReference.cache
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Debug\BF_Interpreter.AboutBox.resources
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Debug\BF_Interpreter.InterpreterForm.resources
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Debug\BF_Interpreter.InputForm.resources
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Debug\BF_Interpreter.ManualForm.resources
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Debug\BF_Interpreter.Properties.Resources.resources
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Debug\BF Interpreter.csproj.GenerateResource.cache
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Debug\BF Interpreter.csproj.CoreCompileInputs.cache
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Debug\BF Interpreter.exe
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Debug\BF Interpreter.pdb

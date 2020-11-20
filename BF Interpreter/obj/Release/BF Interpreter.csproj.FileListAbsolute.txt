@@ -1,0 +1,26 @@
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\bin\Release\BF Interpreter.exe.config
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\bin\Release\BF Interpreter.exe
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\bin\Release\BF Interpreter.pdb
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Release\BF Interpreter.csprojAssemblyReference.cache
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Release\BF_Interpreter.AboutBox.resources
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Release\BF_Interpreter.InterpreterForm.resources
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Release\BF_Interpreter.InputForm.resources
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Release\BF_Interpreter.ManualForm.resources
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Release\BF_Interpreter.Properties.Resources.resources
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Release\BF Interpreter.csproj.GenerateResource.cache
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Release\BF Interpreter.csproj.CoreCompileInputs.cache
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Release\BF Interpreter.exe
+D:\TheDapperClam\Documents\GitHub\BF-Interpreter\BF Interpreter\obj\Release\BF Interpreter.pdb
+D:\TheDapperClam\Documents\Dev\Projects\C#\BF-Interpreter\BF Interpreter\bin\Release\BF Interpreter.exe.config
+D:\TheDapperClam\Documents\Dev\Projects\C#\BF-Interpreter\BF Interpreter\bin\Release\BF Interpreter.exe
+D:\TheDapperClam\Documents\Dev\Projects\C#\BF-Interpreter\BF Interpreter\bin\Release\BF Interpreter.pdb
+D:\TheDapperClam\Documents\Dev\Projects\C#\BF-Interpreter\BF Interpreter\obj\Release\BF Interpreter.csprojAssemblyReference.cache
+D:\TheDapperClam\Documents\Dev\Projects\C#\BF-Interpreter\BF Interpreter\obj\Release\BF_Interpreter.AboutBox.resources
+D:\TheDapperClam\Documents\Dev\Projects\C#\BF-Interpreter\BF Interpreter\obj\Release\BF_Interpreter.InterpreterForm.resources
+D:\TheDapperClam\Documents\Dev\Projects\C#\BF-Interpreter\BF Interpreter\obj\Release\BF_Interpreter.InputForm.resources
+D:\TheDapperClam\Documents\Dev\Projects\C#\BF-Interpreter\BF Interpreter\obj\Release\BF_Interpreter.ManualForm.resources
+D:\TheDapperClam\Documents\Dev\Projects\C#\BF-Interpreter\BF Interpreter\obj\Release\BF_Interpreter.Properties.Resources.resources
+D:\TheDapperClam\Documents\Dev\Projects\C#\BF-Interpreter\BF Interpreter\obj\Release\BF Interpreter.csproj.GenerateResource.cache
+D:\TheDapperClam\Documents\Dev\Projects\C#\BF-Interpreter\BF Interpreter\obj\Release\BF Interpreter.csproj.CoreCompileInputs.cache
+D:\TheDapperClam\Documents\Dev\Projects\C#\BF-Interpreter\BF Interpreter\obj\Release\BF Interpreter.exe
+D:\TheDapperClam\Documents\Dev\Projects\C#\BF-Interpreter\BF Interpreter\obj\Release\BF Interpreter.pdb
